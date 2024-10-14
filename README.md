@@ -28,7 +28,6 @@ Here are some screenshots of the QuickEats application:
 
 </div>
 
-
 ## Features
 
 - User-friendly interface
