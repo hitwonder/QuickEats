@@ -59,6 +59,24 @@ This repository contains a modern QuickEats app built with Android’s Jetpack c
 - **Unit Testing**: 
   - Unit tests are implemented for critical parts of the business logic to ensure app reliability and correctness.
 
+## Prerequisites
+
+- Android Studio 4.0 or higher
+- JDK 8 or higher
+- Gradle 6.1.1 or higher
+- Kotlin 1.4 or higher
+
+## Technologies Used
+
+- **Kotlin**: Main programming language used for Android development.
+- **Jetpack Navigation Component**: Handles in-app navigation between fragments.
+- **LiveData and ViewModel**: Lifecycle-aware components for data handling.
+- **RecyclerView**: Displays item lists with efficient memory usage.
+- **Hilt**: Dependency injection for modular architecture and testing.
+- **ConstraintLayout**: Flexible UI layout design.
+- **CoordinatorLayout**: Provides behaviors like the floating action button and toolbars.
+
+
 ## Installation
 
 To get started with this project, clone the repository and open it in Android Studio:
