@@ -4,6 +4,20 @@
 
 Here are some screenshots of the QuickEats application:
 
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>Cart Screen</th>
+    <th>Checkout Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745092.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745125.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745139.png?raw=true" width="270" height="480"></td>
+  </tr>
+</table>
+
+
 <div style="display: flex; justify-content: center;">
 
   <div style="margin: 10px;">
