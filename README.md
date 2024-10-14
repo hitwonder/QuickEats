@@ -7,40 +7,19 @@ Here are some screenshots of the QuickEats application:
 <table>
   <tr>
     <th>Home Screen</th>
-    <th>Cart Screen</th>
-    <th>Checkout Screen</th>
+    <th>Prodcut Detail Screen</th>
+    <th>Order Summary Screen</th>
+    <th>Payment Screen</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745092.png?raw=true" width="270" height="480"></td>
-    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745125.png?raw=true" width="270" height="480"></td>
-    <td><img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/Screenshot_1582745139.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/1.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/2.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/3.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/4.png?raw=true" width="270" height="480"></td>
   </tr>
 </table>
 
 
-<div style="display: flex; justify-content: center;">
-
-  <div style="margin: 10px;">
-    <img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/1.png?raw=true" alt="Screenshot 1" width="300"/>
-    <p>Home Screen</p>
-  </div>
-  
-  <div style="margin: 10px;">
-    <img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/2.png?raw=true" alt="Screenshot 2" width="300"/>
-    <p>Cart Screen</p>
-  </div>
-
-  <div style="margin: 10px;">
-    <img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/3.png?raw=true" alt="Screenshot 3" width="300"/>
-    <p>Checkout Screen</p>
-  </div>
-
-  <div style="margin: 10px;">
-    <img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/4.png?raw=true" alt="Screenshot 4" width="300"/>
-    <p>Order Confirmation</p>
-  </div>
-
-</div>
 
 ## Features
 
