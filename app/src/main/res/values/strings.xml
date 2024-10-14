@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickEats</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="filter">Filter</string>
+    <string name="favourite_list">Favourite_List</string>
+    <string name="favourite">Favourite</string>
+</resources>

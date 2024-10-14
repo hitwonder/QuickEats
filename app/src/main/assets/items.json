@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Burger",
+    "description": "Juicy burger with fresh lettuce, tomato, and cheese, served on a toasted bun.",
+    "price": 29,
+    "imageUrl": "https://i.postimg.cc/bSb1x7N6/burger.jpg"
+  },
+  {
+    "name": "Pizza",
+    "description": "Delicious cheese pizza topped with fresh ingredients and baked to perfection.",
+    "price": 49,
+    "imageUrl": "https://i.postimg.cc/hJ5mHDXy/pizza.jpg"
+  },
+  {
+    "name": "Pasta",
+    "description": "Rich and creamy pasta dish served with a flavorful sauce and garnished with herbs.",
+    "price": 29,
+    "imageUrl": "https://i.postimg.cc/340GhspK/pasta.jpg"
+  },
+  {
+    "name": "Salad",
+    "description": "Fresh garden salad with mixed greens, cherry tomatoes, cucumbers, and a light dressing.",
+    "price": 49,
+    "imageUrl": "https://i.postimg.cc/mcDMXzg1/salad.jpg"
+  },
+  {
+    "name": "Ice Cream",
+    "description": "Smooth and creamy ice cream in a variety of flavors, perfect for a sweet treat.",
+    "price": 29,
+    "imageUrl": "https://i.postimg.cc/WdSgw6TP/ice-cream.jpg"
+  },
+  {
+    "name": "Cake",
+    "description": "Decadent layered cake with rich frosting, perfect for celebrations.",
+    "price": 49,
+    "imageUrl": "https://i.postimg.cc/CzTGhxm9/cake.jpg"
+  },
+  {
+    "name": "Sandwich",
+    "description": "Hearty sandwich filled with your choice of meats, cheeses, and fresh vegetables.",
+    "price": 29,
+    "imageUrl": "https://i.postimg.cc/3ysXkr3y/sandwich.jpg"
+  },
+  {
+    "name": "Fries",
+    "description": "Crispy golden fries, seasoned to perfection, a classic side for any meal.",
+    "price": 49,
+    "imageUrl": "https://i.postimg.cc/Mfx1YsMq/fires.jpg"
+  }
+]

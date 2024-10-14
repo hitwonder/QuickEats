@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_shop"
+        android:icon="@drawable/ic_shop_cart"
+        android:title="@string/filter"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_fav_list"
+        android:icon="@drawable/ic_fav_list"
+        android:title="@string/favourite_list"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_fav"
+        android:icon="@drawable/ic_fav"
+        android:title="@string/favourite"
+        app:showAsAction="ifRoom" />
+</menu>
