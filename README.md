@@ -1,8 +1,8 @@
-# Kiosk Application
+# QuickEats Application
 
 ## Screenshots
 
-Here are some screenshots of the Kiosk application:
+Here are some screenshots of the QuickEats application:
 
 <div style="display: flex; justify-content: space-around;">
 
@@ -35,7 +35,7 @@ Here are some screenshots of the Kiosk application:
 - Cart functionality
 - Geo-location Integration - Coming Soon
 
-This repository contains a modern kiosk app built with Android’s Jetpack components and Kotlin. The application allows users to browse and purchase items through an intuitive interface while maintaining a clean and scalable architecture. It follows SOLID principles, uses dependency injection (Hilt), and includes unit testing for critical parts of the logic.
+This repository contains a modern QuickEats app built with Android’s Jetpack components and Kotlin. The application allows users to browse and purchase items through an intuitive interface while maintaining a clean and scalable architecture. It follows SOLID principles, uses dependency injection (Hilt), and includes unit testing for critical parts of the logic.
 
 ### Features
 
@@ -72,7 +72,7 @@ To get started with this project, clone the repository and open it in Android St
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yourusername/kiosk-app.git
+$ git clone https://github.com/yourusername/QuickEats-app.git
 
 # Open the project in Android Studio
 # Sync Gradle and run the app on an Android emulator or device
