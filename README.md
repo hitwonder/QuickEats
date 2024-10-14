@@ -12,7 +12,7 @@ Here are some screenshots of the QuickEats application:
     <th>Payment Screen</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/1.png?raw=true" width="270" height="480"></td>
+    <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/1.png?raw=true" style="max-width: 270px; height: auto;0"></td>
     <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/2.png?raw=true" width="270" height="480"></td>
     <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/3.png?raw=true" width="270" height="480"></td>
     <td><img src="https://github.com/hitwonder/QuickEats/blob/main/screenshots/4.png?raw=true" width="270" height="480"></td>
