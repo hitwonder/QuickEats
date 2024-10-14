@@ -33,6 +33,9 @@ This repository contains a modern QuickEats app built with Android’s Jetpack c
 - **Item Listings**: 
   - Browse a wide selection of products with detailed information about each item, including descriptions, prices, and availability.
 
+- **Product Search**: 
+  - Quickly find products by searching through the item listings with a user-friendly search feature.
+
 - **Shopping Cart**: 
   - Add and remove items from the cart.
   - Cart functionality is implemented using Room database for persistent storage.
