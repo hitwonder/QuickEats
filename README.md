@@ -4,7 +4,7 @@
 
 Here are some screenshots of the QuickEats application:
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: center;">
 
   <div style="margin: 10px;">
     <img src="https://github.com/yourusername/QuickEats/blob/main/screenshots/1.png?raw=true" alt="Screenshot 1" width="300"/>
